@@ -1,0 +1,9 @@
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\BusinessLogicLayer.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\BusinessLogicLayer.csprojResolveAssemblyReference.cache

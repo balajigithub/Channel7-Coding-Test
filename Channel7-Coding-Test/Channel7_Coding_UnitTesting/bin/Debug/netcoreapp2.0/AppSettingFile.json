@@ -1,0 +1,6 @@
+﻿{
+  "JsonFilePath": {
+    "Path": "..\\..\\..\\JSONSource\\example_data.json"
+  },
+  "Microsoft.Extensions.Configuration.FileExtensions": "1.0.0-*"
+}

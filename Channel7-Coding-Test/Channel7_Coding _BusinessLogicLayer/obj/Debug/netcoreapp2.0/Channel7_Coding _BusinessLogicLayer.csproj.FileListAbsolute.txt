@@ -1,0 +1,17 @@
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding _BusinessLogicLayer\obj\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb

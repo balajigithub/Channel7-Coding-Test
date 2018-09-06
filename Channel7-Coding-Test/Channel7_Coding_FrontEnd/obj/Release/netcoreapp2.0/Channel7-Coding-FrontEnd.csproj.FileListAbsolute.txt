@@ -1,0 +1,13 @@
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.dll.config
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.runtimeconfig.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.runtimeconfig.dev.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\bin\Release\netcoreapp2.0\BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\obj\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\obj\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\obj\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\obj\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7-Coding-Test\obj\Release\netcoreapp2.0\Channel7-Coding-FrontEnd.pdb

@@ -1,0 +1,33 @@
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.csprojResolveAssemblyReference.cache
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\dotnet_code_challenge.Test.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\obj\Debug\netcoreapp2.0\dotnet_code_challenge.Test.pdb
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.json
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.dev.json
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.pdb
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\dotnet-code-challenge.Test\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.csproj.CoreCompileInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.AssemblyInfoInputs.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.AssemblyInfo.cs
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\Channel7_Coding_UnitTesting.csprojResolveAssemblyReference.cache
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\AppSettingFile.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.deps.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.runtimeconfig.dev.json
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\dotnet_code_challenge.Test.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\bin\Debug\netcoreapp2.0\Channel7_Coding _BusinessLogicLayer.pdb
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\dotnet_code_challenge.Test.dll
+C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_UnitTesting\obj\Debug\netcoreapp2.0\dotnet_code_challenge.Test.pdb
