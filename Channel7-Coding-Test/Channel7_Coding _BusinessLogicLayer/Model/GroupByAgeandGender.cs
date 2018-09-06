@@ -11,7 +11,7 @@ namespace BusinessLogicLayer
         {
             try
             {
-                //Read the Json Source
+                //Get JSON Object
                 JObject JsonObj = Utility.GetJSON(JsonPath);
                 //Get the information based on Group By Age and How many of them are Male and Female..........
                 var GrpByAge = (from h in JsonObj["Data"]

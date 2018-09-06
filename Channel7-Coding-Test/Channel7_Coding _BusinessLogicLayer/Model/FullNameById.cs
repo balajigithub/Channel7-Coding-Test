@@ -11,8 +11,7 @@ namespace BusinessLogicLayer
         {
             try
             {
-                //Read the Json Source
-
+                //Get JSON Object
                 JObject JsonObj = Utility.GetJSON(JsonPath);
                 //Get the First and Last Names for a given Id.................
                 var GetFirstAndLastNames = (from h in JsonObj["Data"].Where(a => (int)a["id"] == Id)
