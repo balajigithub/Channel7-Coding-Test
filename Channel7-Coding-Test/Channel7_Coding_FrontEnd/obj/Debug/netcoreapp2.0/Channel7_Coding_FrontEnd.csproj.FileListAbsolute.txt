@@ -16,7 +16,6 @@ C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\obj\Debug\netcore
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\obj\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.csproj.CoreCompileInputs.cache
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\obj\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.AssemblyInfoInputs.cache
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\obj\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.AssemblyInfo.cs
-C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\bin\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.dll.config
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\bin\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.deps.json
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\bin\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.runtimeconfig.json
 C:\Channel7 Test\Channel7-Coding-Test\Channel7_Coding_FrontEnd\bin\Debug\netcoreapp2.0\Channel7_Coding_FrontEnd.runtimeconfig.dev.json
