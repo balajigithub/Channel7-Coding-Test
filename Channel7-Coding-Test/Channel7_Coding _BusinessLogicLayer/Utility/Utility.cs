@@ -8,11 +8,19 @@ namespace BusinessLogicLayer
     {
         public static JObject GetJSON(String JsonPath)
         {
-            using (System.IO.StreamReader r = new StreamReader(JsonPath))
+            try
             {
-                var Json = r.ReadToEnd();
-                JObject JsonObj = JObject.Parse(Json);
-                return JsonObj;
+                using (System.IO.StreamReader r = new StreamReader(JsonPath))
+                {
+                    var Json = r.ReadToEnd();
+                    JObject JsonObj = JObject.Parse(Json);
+                    return JsonObj;
+                }
+            }
+            catch(Exception ex)
+            {
+
+                throw ex.InnerException;
             }
         }
     }
