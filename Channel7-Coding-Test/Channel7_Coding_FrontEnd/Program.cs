@@ -10,16 +10,17 @@ namespace Channel7_Coding_FrontEnd
         {
             try
             {
+                int Age = 23; int Id = 62;
                 string JsonPath = ConfigurationManager.AppSetting["JsonFilePath:Path"];
-                string FirstNames = CommaSeparatedFirstNameByAge.GetCommaSeparatedFirstNameByAge(JsonPath, 23);
-                List<string> FullNameByIdResult = FullNameById.GetFullNameById(JsonPath, 31);
+                string FirstNames = CommaSeparatedFirstNameByAge.GetCommaSeparatedFirstNameByAge(JsonPath, Age);
+                List<string> FullNameByIdResult = FullNameById.GetFullNameById(JsonPath, Id);
                 List<string> GroupByAgeandGenderResult = GroupByAgeandGender.GetGroupByAgeandGender(JsonPath);
-                Console.WriteLine("Get Comma Separated FirstName By Age 23 Result");
+                Console.WriteLine("Get Comma Separated FirstName By Age" + " " + Age + " " + "Result");
                 Console.WriteLine("-------------------------------------------------");
                 Console.WriteLine(FirstNames);
                 Console.WriteLine("-------------------------------------------------");
 
-                Console.WriteLine("Get Full Name By Id 31 Result");
+                Console.WriteLine("Get Full Name By Id" + " " +  Id + " " + "Result");
                 Console.WriteLine("-------------------------------------------------");
                 foreach (string fnames in FullNameByIdResult)
                 {
